@@ -1,2 +1,2 @@
 # AlbumSite
-Hello everyone, this is a simple Bootstrap site.
+Hi everyone, this is a simple Bootstrap site.
